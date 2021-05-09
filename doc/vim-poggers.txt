@@ -1,0 +1,26 @@
+*vim-poggers.txt*	        Global plugin for printing a POGGERS asciiart
+*poggers* *vim-poggers*
+
+             ____   ___   ____  ____ _____ ____  ____           ~
+            |  _ \ / _ \ / ___|/ ___| ____|  _ \/ ___|          ~
+            | |_) | | | | |  _| |  _|  _| | |_) \___ \          ~
+            |  __/| |_| | |_| | |_| | |___|  _ < ___) |         ~
+            |_|    \___/ \____|\____|_____|_| \_\____/          ~
+
+Version: 1.0
+=============================================================================
+CONTENTS                                                 *vim-poggers-contents*
+
+    1. Commands ........................................... |vim-poggers-usage|
+    2. Licence .......................................... |vim-poggers-licence|
+
+=============================================================================
+COMMANDS                                                 *vim-poggers-commands*
+:POGGERS                                                              *POGGERS*
+    Prints a POGGERS asciiart in the current file and position.
+
+=============================================================================
+LICENCE                                                   *vim-poggers-licence*
+MIT
+
+vim:ft=help
